@@ -1,0 +1,5 @@
+name: ShitTest
+version: '${project.version}'
+main: me.sedano.shittest.ShitTest
+api-version: '1.19'
+load: STARTUP
